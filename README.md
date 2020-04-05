@@ -1,4 +1,4 @@
-# [Яндекс](https://contest.yandex.ru/contest/8458/enter/)
+# [Яндекс.Интервью](https://contest.yandex.ru/contest/8458/enter/)
 
 Подготовка к очному собеседованию в Яндекс Дзене по направлению ["Стажёр во frontend разработку"](https://yandex.ru/jobs/vacancies/interns/intern_frontdev_zen/).
 
